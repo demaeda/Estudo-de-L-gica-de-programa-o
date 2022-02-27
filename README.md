@@ -1,2 +1,3 @@
-# Estudo-de-L-gica-de-programa-o
+# Estudo de lógica de programação
+
 materiais e exercícios de lógica de programação
